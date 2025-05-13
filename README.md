@@ -1,4 +1,5 @@
 # Significado do Nome - Aplicação Vue.js + .NET
+![image](https://github.com/user-attachments/assets/3325c0a9-9e62-4929-bb73-e95b3e01cf18)
 
 Esta aplicação permite descobrir o significado de nomes usando a API Gemini do Google.
 
